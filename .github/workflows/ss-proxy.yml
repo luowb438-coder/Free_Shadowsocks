@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install Modal
-        run: pip install modal
+        run: pip install modal pyyaml
 
       - name: Deploy API
         env:
