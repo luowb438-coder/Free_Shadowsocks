@@ -10,7 +10,7 @@
 
 | 需要准备的 | 说明 |
 |-----------|------|
-| [Modal 账号](https://modal.com) | 免费注册，每月有免费额度 |
+| [Modal 账号](https://modal.com) | 免费注册，每月有免费额度(基本够用了) |
 | [GitHub 账号](https://github.com) | 用于自动运行代理服务 |
 | 代理客户端 | Clash / ClashX / Shadowrocket / v2rayN 等 |
 
