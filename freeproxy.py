@@ -68,7 +68,7 @@ def api():
     return web_app
 
 # SS 服务器 — 独立长时运行函数
-@app.function(image=image, timeout=3600 * 24, region="asia-northeast1")
+@app.function(image=image, timeout=3600 * 24, region="uk")
 def run_ss_server():
     password = "123456"
     method = "chacha20-ietf-poly1305"  # 用 AEAD 加密
